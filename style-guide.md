@@ -5,7 +5,7 @@
 
 ## Typography
 
-### Headings
+### Headings 
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 400, 600
